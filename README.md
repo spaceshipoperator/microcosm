@@ -1,6 +1,6 @@
-h2. microcosm
+microcosm
 
-h4. its a small world
+its a small world
 
 clone this repo and then
 
